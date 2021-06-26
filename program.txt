@@ -1,0 +1,16 @@
+ldi r1 2
+ldi r2 2 
+ldi r3 0
+jr r1 r2
+add r1 r2
+add r1 r2
+add r1 r2
+add r1 r2
+add r1 r2
+add r1 r2
+beqz r3 3
+add r1 r2
+add r1 r2
+add r1 r2
+sub r1 r2
+
