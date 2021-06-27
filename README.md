@@ -1,5 +1,5 @@
 # Instruction-Set-Architechture
-Implementation of an ISA with 12 differenet instructions to emulate the implementation of the micro architecture. There are 64 registers named r0 till r63
+Implementation of an ISA with 12 differenet instructions to emulate the implementation of the micro architecture. There are 64 registers named r0 till r63 with a parser to interpret the text files including the programs.
 
 # The language is not case sensitive 
 
